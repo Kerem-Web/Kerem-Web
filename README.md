@@ -23,8 +23,8 @@
 ---
 
 ## 🌍 Bana Ulaş  
-- [LinkedIn]([(https://www.linkedin.com/in/kerem-sefa-atalan-bb5b42384/)](https://www.linkedin.com/in/kerem-sefa-atalan-bb5b42384/))  
-- [E-posta](mailto:katalan331@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/kerem-sefa-atalan-bb5b42384/)  
+- [E-posta](mailto:katalan331@gmail.com)
 
 ---
 
