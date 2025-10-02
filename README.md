@@ -1,7 +1,15 @@
 # 👋 Merhaba, ben Kerem
 
 🎓 İstatistik 2. sınıf öğrencisiyim | 📊 Veri Bilimi & Yapay Zekâ meraklısıyım  
-
+💻 Analiz sevdalısı bir veri bilimciyim.  
+🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
+⚡ İlgi alanlarım:  
+- Veri Analizi  
+- Veri Bilimi  
+- Yapay Zeka  
+- Yazılım  
+- Veritabanı  
+- İstatistik
 ---
 
 ## 🚀 Kullandığım Teknolojiler  
